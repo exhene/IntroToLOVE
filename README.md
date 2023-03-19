@@ -1,4 +1,4 @@
-# 30DaysOfLOVE
+# IntroToLOVE
 
 LOVE (usually abbreviated as LOVE or Love2D) is a free, open-source game engine that uses the Lua programming language to create 2D games and interactive applications. Lua is a lightweight scripting language that is easy to learn and use, making it popular among game developers.
 
